@@ -1,9 +1,4 @@
 
-<p align="left">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQHtdN79Gvl8PA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719512667302?e=1735776000&v=beta&t=pYcnD2DVpdBUCNKioihHIsmOVeiLSIDlsg0SWad269Q" width="800">
-</p>
-
-
 # 💫 Hi there! I’m Farhan Ali Khan 👋
 
 Welcome to my GitHub profile! I'm a **Computer Engineering student** passionate about **AI, Machine Learning, and NLP**. With a solid background in **Deep Learning, Computer Vision,** and **Embedded Systems**, I love building projects that blend AI with real-world applications. Here, you’ll find projects that highlight my skills in **NLP, IoT, and app development**—all driven by a desire to create optimized, innovative solutions.
